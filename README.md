@@ -9,13 +9,13 @@ A continuación se muestran los pasos para utilizar esta herramienta en Unity.
   - Desarrollo con juego en Unity
 - [Unity Hub](https://unity.com/es/download)
   - Unity 2020.3.X
-- [Windows SDK](https://developer.microsoft.com/en-us/windows/downloads/windows-sdk/)
-- [HoloLens 2 Emulator](https://learn.microsoft.com/en-us/windows/mixed-reality/develop/advanced-concepts/hololens-emulator-archive)
+- [Windows SDK](https://developer.microsoft.com/en-us/windows/downloads/windows-sdk/?wt.mc_id=studentamb_159817)
+- [HoloLens 2 Emulator](https://learn.microsoft.com/en-us/windows/mixed-reality/develop/advanced-concepts/hololens-emulator-archive?wt.mc_id=studentamb_159817)
 - [Git](https://git-scm.com/downloads)
 - [GitHub Desktop](https://desktop.github.com/) (*Opcional*)
 - Una cuenta de Azure
-  - [Cuenta gratuita](https://azure.microsoft.com/es-es/free/)
-  - [Cuenta educativa](https://azure.microsoft.com/es-es/free/students/)
+  - [Cuenta gratuita](https://azure.microsoft.com/es-es/free/?wt.mc_id=studentamb_159817)
+  - [Cuenta educativa](https://azure.microsoft.com/es-es/free/students/?wt.mc_id=studentamb_159817)
   
 ## Portal de Azure
 1. Accede al portal de Azure
@@ -43,6 +43,6 @@ powershell -ExecutionPolicy RemoteSigned -File azure-remote-rendering\Scripts\Do
 6. Ejecutar el programa
 
 ## Recursos
-- [Introducción a Azure Remote Rendering](https://learn.microsoft.com/es-es/training/modules/intro-to-azure-remote-rendering/)
-- [Representación de un modelo con Azure Remote Rendering](https://learn.microsoft.com/es-es/training/modules/render-model-azure-remote-rendering-unity/)
-- [Configuración de un proyecto de realidad mixta en Unity con el kit de herramientas de Mixed Reality](https://learn.microsoft.com/es-es/training/modules/mixed-reality-toolkit-project-unity/)
+- [Introducción a Azure Remote Rendering](https://learn.microsoft.com/es-es/training/modules/intro-to-azure-remote-rendering/?wt.mc_id=studentamb_159817)
+- [Representación de un modelo con Azure Remote Rendering](https://learn.microsoft.com/es-es/training/modules/render-model-azure-remote-rendering-unity/?wt.mc_id=studentamb_159817)
+- [Configuración de un proyecto de realidad mixta en Unity con el kit de herramientas de Mixed Reality](https://learn.microsoft.com/es-es/training/modules/mixed-reality-toolkit-project-unity/?wt.mc_id=studentamb_159817)
