@@ -41,6 +41,7 @@ powershell -ExecutionPolicy RemoteSigned -File azure-remote-rendering\Scripts\Do
 4. En **Hierarchy** seleccionar **Remote Rendering**
 5. Capturar el id del recurso en Azure, así como el dominio y la clave
 6. Ejecutar el programa
+7. Para mover la cámara...
 
 ## Recursos
 - [Introducción a Azure Remote Rendering](https://learn.microsoft.com/es-es/training/modules/intro-to-azure-remote-rendering/?wt.mc_id=studentamb_159817)
