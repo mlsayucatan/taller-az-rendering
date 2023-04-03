@@ -35,13 +35,13 @@ powershell -ExecutionPolicy RemoteSigned -File azure-remote-rendering\Scripts\Do
 ```
   
 ## Unity Hub
-1. Abrir el proyecto que se encuentra en **azure-remote-rendering/Unity/Quickstart**
-2. Configurar para que utilice la plataforma universal de Windows
-3. Abrir el archivo **assets/Scenes/Quickstart**
+1. Abrir el proyecto, con la opción *add proyect from disk*, que se encuentra en **azure-remote-rendering/Unity/Quickstart**. Actualice o instale la versión de Unity si es necesario.
+2. Configurar para que utilice la plataforma universal de Windows. **File -> Build Settings -> Universal Windows Platform -> Switch Platform**
+3. Abrir la escena **Quickstart**: el archivo **assets/Scenes/Quickstart**
 4. En **Hierarchy** seleccionar **Remote Rendering**
-5. Capturar el id del recurso en Azure, así como el dominio y la clave
+5. En **Inspector**, en el componente **Remote Rendering** capturar el id del recurso en Azure, así como el dominio y la clave.
 6. Ejecutar el programa
-7. Para mover la cámara...
+7. Para mover la cámara o el objeto utilice las herramientas *move* y *rotate* dentro de la escena.
 
 ## Recursos
 - [Introducción a Azure Remote Rendering](https://learn.microsoft.com/es-es/training/modules/intro-to-azure-remote-rendering/?wt.mc_id=studentamb_159817)
